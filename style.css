@@ -9,3 +9,13 @@ p{
     font-size: 22px;
     font-wieght:500
 }
+button{
+    font-family: Arial;
+    font-size: 18px;
+    font-wieght: 500;
+    padding: 7px 18px;
+    border: none;
+    border-radius: 5px;
+    background-color: green;
+    color: white;
+}
