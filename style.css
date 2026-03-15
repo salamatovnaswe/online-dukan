@@ -4,3 +4,8 @@ h1{
     font-wieght: 700;
     text-align: center
 }
+p{
+    font-family: monospace;
+    font-size: 22px;
+    font-wieght:500
+}
